@@ -1,3 +1,4 @@
 this is file B
 lets make change
 making another change
+this is for squash mearge
